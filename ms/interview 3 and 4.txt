@@ -1,0 +1,28 @@
+nterview - 4
+
+1.why you want to leave Barclays?
+2.Design parking lot
+	1.park feature
+	2.deallocate feature
+	focus was on o(1) implementation of both features
+	what ds to use and why?
+3.Design notification system for houses
+	you have given 4 websites. Collect data from all 4 and send notification to user when certain criteria was met?
+	focus on High-level-design components
+	How to find difference of 2 files?
+	How does grep linux command is created?
+4.An sorted array is given. we dont know the end of the aaray, find the index of given element?
+5. TCP/IP stack
+6. why this company?
+
+
+Interview 3
+1. Project related question
+2. HashMap working and code
+3.equals() hashCode()
+4.memory management in java?
+5.object creation and memory management?
+6.given an array find k top frequent elelments
+7.design expirable hashmap like a API
+	focus was on o(1) implementation of get and put
+	how will you free the space, once the keys are expired?
